@@ -12,7 +12,7 @@ if __name__ == "__main__":
         "DjangoWebProject1.settings"
         #dsadasda
         #dsfafdsdsaddsaasd
-        #dsadasdasdaasdads
+        #dsadasdasdaasdadssdadasadsa
     )
 
     from django.core.management import execute_from_command_line
